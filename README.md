@@ -49,6 +49,6 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/clj-mota/clj-mota/output/snake.svg](https://raw.githubusercontent.com/clj-mota/clj-mota/refs/heads/main/snake.svg)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/clj-mota/clj-mota/refs/heads/main/snake.svg" alt="Snake animation" />
 
 ###
