@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Cassia and sou formada em Business Intelligence & Analytics pela Conquer</p>
+<p align="left">My name is Cassia, formada em Business Intelligence & Analytics pela Conquer</p>
 
 ###
 
