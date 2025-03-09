@@ -2,7 +2,19 @@
 
 ###
 
-<p align="left">My name is Cassia, formada em Business Intelligence & Analytics pela Conquer</p>
+<p align="left">👋 Olá! Eu sou a Cassia
+
+Formada em Business Intelligence & Analytics pela Conquer
+💡 *Apaixonada por dados, automação e tecnologia
+🐍Desenvolvedora Python, com foco em análise de dados e automação
+📊 **Atualmente trabalhando para me tornar Engenheira de Dados
+
+💻 Principais habilidades:
+
+Python para análise e manipulação
+Automação de processos com Power Automate
+Integração de dados com ferramentas Microsoft (Power BI, Excel, Share Point)
+Versionamento de código com Git e GitHub</p>
 
 ###
 
